@@ -1,0 +1,15 @@
+D:\gb\C#\H9\Examples\task3\bin\Debug\net6.0\task3.exe
+D:\gb\C#\H9\Examples\task3\bin\Debug\net6.0\task3.deps.json
+D:\gb\C#\H9\Examples\task3\bin\Debug\net6.0\task3.runtimeconfig.json
+D:\gb\C#\H9\Examples\task3\bin\Debug\net6.0\task3.dll
+D:\gb\C#\H9\Examples\task3\bin\Debug\net6.0\task3.pdb
+D:\gb\C#\H9\Examples\task3\obj\Debug\net6.0\task3.csproj.AssemblyReference.cache
+D:\gb\C#\H9\Examples\task3\obj\Debug\net6.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\gb\C#\H9\Examples\task3\obj\Debug\net6.0\task3.AssemblyInfoInputs.cache
+D:\gb\C#\H9\Examples\task3\obj\Debug\net6.0\task3.AssemblyInfo.cs
+D:\gb\C#\H9\Examples\task3\obj\Debug\net6.0\task3.csproj.CoreCompileInputs.cache
+D:\gb\C#\H9\Examples\task3\obj\Debug\net6.0\task3.dll
+D:\gb\C#\H9\Examples\task3\obj\Debug\net6.0\refint\task3.dll
+D:\gb\C#\H9\Examples\task3\obj\Debug\net6.0\task3.pdb
+D:\gb\C#\H9\Examples\task3\obj\Debug\net6.0\task3.genruntimeconfig.cache
+D:\gb\C#\H9\Examples\task3\obj\Debug\net6.0\ref\task3.dll
